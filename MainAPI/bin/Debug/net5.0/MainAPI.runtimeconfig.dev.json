@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/wrissy/.dotnet/store/|arch|/|tfm|",
+      "/Users/wrissy/.nuget/packages"
+    ]
+  }
+}
